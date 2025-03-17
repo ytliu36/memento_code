@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='memento-de',
+    name='memento-fork',
     version='0.1.2',
     description='Hypothesis testing for scRNA-seq',
-    url='https://github.com/yelabucsf/scrna-parameter-estimation.git',
-    author='Min Cheol Kim',
+    url='https://github.com/ytliu36/memento_code.git',
+    author='Yutong',
     packages=['memento'])
